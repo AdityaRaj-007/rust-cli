@@ -1,0 +1,14 @@
+[
+  {
+    "category": "Grocery",
+    "amount": 550.0,
+    "date": "2026-05-09",
+    "id": "60a7c7b7-d266-4d8c-a3ba-4db3ddd3308a"
+  },
+  {
+    "category": "Zomato",
+    "amount": 760.0,
+    "date": "2026-05-09",
+    "id": "2b66f6ea-2b55-435a-8f84-54c58edbb02a"
+  }
+]
